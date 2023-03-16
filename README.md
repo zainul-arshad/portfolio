@@ -37,3 +37,5 @@ I am a web developer with 3 years of experience in front-end development. I am p
 - Playing guitar
 - Hiking
 - Reading books on technology and philosophy
+
+<img src="https://ui-avatars.com/api/?name=John+Doe&background=random" alt="Alt Text" width="500" height="300">
